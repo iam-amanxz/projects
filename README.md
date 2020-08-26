@@ -8,6 +8,7 @@ A SMART IOT device with Ultrasonic, LDR, Humdity, Temperature, and Soil Mosture 
 
 ## 2.  Moochild Kids App
 ![Moochild Kids App](/MOOCHILD.jpg "Moochild Kids App")
+<img src="/MOOCHILD.jpg" alt="Moochild Kids App" style="height: 100px; width:100px;"/>
 A game-based learning mobile app for kids built with Flutter. Text to Speach features for spelling challenges and mathametical challenges included. Firebase is used for authentication and real-time storage. State management is done with Provider package. 
 #### Source Code: https://github.com/iam-amanxz/moochild
 
