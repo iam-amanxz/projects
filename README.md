@@ -4,8 +4,7 @@ Detailed rundown  of the projects I have worked on.
 
 ## 1.  IOT Based Wildfire Detection & Alert System
 A SMART IOT device with Ultrasonic, LDR, Humdity, Temperature, and Soil Mosture sensors and Buzzer and LED as actuator to detect wildfire and instantly alert the officers via and alarm and text alert. GPRS is used to transmit data and NodeMCU is used as the microprocessor. Visualization is done using ThingSpeak API and MATLAB is used for analysis.
-#### Source Code: 
-#### Hosted at:  
+#### Source Code: https://github.com/iam-amanxz/IOT-Based-Wildfire-Detection-Alert-System
 
 ## 2.  Moochild Kids App
 A game-based learning mobile app for kids built with Flutter. Text to Speach features for spelling challenges and mathametical challenges included. Firebase is used for authentication and real-time storage. State management is done with Provider package. 
@@ -30,3 +29,4 @@ Personal notes taking app with full CRUD functionalities built with Vue.js on th
 A weather app using React js that shows live weather data for almost all cities around the globe.
 #### Source Code: https://github.com/iam-amanxz/mi_weather_react
 #### Hosted at:  https://weather-app-aman.web.app
+
