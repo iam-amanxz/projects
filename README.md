@@ -40,3 +40,10 @@ A weather app using React js that shows live weather data for almost all cities 
 #### Source Code: https://github.com/iam-amanxz/mi_weather_react
 #### Hosted at:  https://weather-app-aman.web.app
 
+
+## 7. Event Countdown App
+
+An app that shows the time remaining until an event. Full email and password authentication and Google signin added using firebase. Can add, update and delete events. Upload event specific background images and upload user avatars.
+#### Source Code: https://github.com/iam-amanxz/event-countdown-app
+#### Hosted at:  https://event-countdwon.web.app/
+
