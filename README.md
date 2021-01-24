@@ -42,6 +42,7 @@ A weather app using React js that shows live weather data for almost all cities 
 
 
 ## 7. Event Countdown App
+![Event Countdown App](/EVENT_COUNTDOWN.jpg)
 
 An app that shows the time remaining until an event. Full email and password authentication and Google signin added using firebase. Can add, update and delete events. Upload event specific background images and upload user avatars.
 #### Source Code: https://github.com/iam-amanxz/event-countdown-app
